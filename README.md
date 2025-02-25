@@ -34,7 +34,14 @@ Sono presenti due notebook Python:
 
 Di seguito possono essere visualizzate le immagini generate dal notebook 'graphs.ipynb'
 
+## L1Full
 ![Miglior modello della ricerca L1Full e Benchmark, canale per canale](images/L1Full_Comparison.png)
+
+## L1Half
 ![Miglior modello della ricerca L1Half e Benchmark, canale per canale](images/L1Half_Comparison.png)
+
+## L2Full
 ![Miglior modello della ricerca L2Full e Benchmark, canale per canale](images/L2Full_Comparison.png)
+
+## L2Half
 ![Miglior modello della ricerca L2Half e Benchmark, canale per canale](images/L2Half_Comparison.png)
