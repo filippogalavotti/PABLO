@@ -29,5 +29,5 @@ I dataset sono generati a partire dal dataset ufficiale disponibile su Kaggle:
 
 ### 📂 Notebook
 Sono presenti due notebook Python:
-- `metrics.ipynb`: Calcola le metriche (MAE, Std MAE, MSE, Std MSE) per i migliori modelli ottenuti e il modello benchmark.
+- `metrics.ipynb`: Calcola le metriche (MAE, Std MAE, MSE, Std MSE) sul test dataset per i migliori modelli ottenuti e il modello benchmark.
 - `graphs.ipynb`: Genera i grafici presenti nella tesi, confrontando le prestazioni canale per canale del miglior modello ottenuto con il modello benchmark.
