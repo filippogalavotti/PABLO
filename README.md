@@ -1,6 +1,6 @@
 # PABLO: Predizione Architetturale Bayesiana per la Ricerca e l'Ottimizzazione di Reti Neurali nella Predizione di Serie Temporali
 
-Questo repository contiene il codice sviluppato per la mia tesi di laurea triennale, incentrata sull'ottimizzazione Bayesiana delle architetture di reti neurali per la predizione di serie temporali. L'applicazione specifica riguarda la stima delle posizioni angolari della mano tramite segnali elettromiografici di superficie (sEMG).
+Questa repository contiene il codice sviluppato per la mia tesi di laurea triennale, incentrata sull'ottimizzazione Bayesiana delle architetture di reti neurali per la predizione di serie temporali. L'applicazione specifica riguarda la stima delle posizioni angolari della mano tramite segnali elettromiografici di superficie (sEMG).
 
 ## Struttura della Repository
 
